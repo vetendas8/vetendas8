@@ -47,6 +47,34 @@ Kod yazarım, sistem tasarımına ilgi duyarım ve Full Stack Developer olmayı 
 
 ---
 
+## 📈 Activity & Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vetendas8&theme=dark&background=0D1117&stroke=20B2AA&ring=20B2AA&fire=FF6B6B&currStreakNum=20B2AA&sideNums=20B2AA&currStreakLabel=20B2AA&sideLabels=8892B0&dates=8892B0)
+
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vetendas8&show_icons=true&theme=transparent&text_color=e0e6ed&icon_color=20b2aa&border_color=20b2aa&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vetendas8&layout=compact&theme=transparent&text_color=e0e6ed&border_color=20b2aa&bg_color=0D1117)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=vetendas8&theme=dark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+
+</div>
+
+---
+
 ## 🎯 Hedeflerim
 
 <div align="center">
@@ -58,18 +86,6 @@ Kod yazarım, sistem tasarımına ilgi duyarım ve Full Stack Developer olmayı 
      ↓
 🌟 → Yenilikçi Projeler
 ```
-
-</div>
-
----
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vetendas8&show_icons=true&theme=transparent&text_color=e0e6ed&icon_color=20b2aa&border_color=20b2aa&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vetendas8&layout=compact&theme=transparent&text_color=e0e6ed&border_color=20b2aa&bg_color=0D1117)
 
 </div>
 
