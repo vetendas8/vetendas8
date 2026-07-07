@@ -31,6 +31,12 @@ A voice-based library application - In active development
 
 ---
 
+## Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vetendas8&theme=github-dark&hide_border=true)
+
+---
+
 ## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vetendas8&show_icons=true&theme=transparent&text_color=e0e6ed&icon_color=20b2aa&border_color=20b2aa&bg_color=0D1117)](https://github.com/vetendas8)
