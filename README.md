@@ -1,128 +1,47 @@
-# 👋 Merhaba, Ben Seymur!
+# Hey, I'm Seymur 👋
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20B2AA&background=0D1117&width=600&height=60&lines=Backend+Developer;System+Design;Learning+C%2B%2B)
-
-</div>
+Backend Developer | System Design Enthusiast | Learning C++
 
 ---
 
-## 🎯 Hakkımda
+## About Me
 
-```
-┌─────────────────────────────────────┐
-│  👨‍💻 Seymur                        │
-│  Backend Developer                  │
-│  System Design & Architecture       │
-│  Open Source & Problem Solver       │
-└─────────────────────────────────────┘
-```
+I'm a passionate developer focused on building scalable backend systems and learning new technologies. Currently working on **Vox Librorum** and exploring system architecture patterns.
 
-Kod yazarım, sistem tasarımına ilgi duyarım ve Full Stack Developer olmayı hedefliyorum. Python, FastAPI ve C++ ile çalışıyor, kendimi sürekli geliştiriyorum.
+- 🎯 Backend Developer
+- 💻 System Design & Architecture
+- 🚀 Open Source Contributor
+- 🎵 Love Classical & Melancholic Music
 
 ---
 
-## 🚀 Şu Anda Üzerinde Çalışıyorum
+## Tech Stack
 
-```
-╔════════════════════════════════════╗
-║  🎙️  Vox Librorum                 ║
-║  Geliştirilme aşamasında...        ║
-╚════════════════════════════════════╝
-```
+**Languages:** Python, C++, Ruby  
+**Frameworks:** FastAPI, Django  
+**Tools:** Git, Linux, Docker  
+**Databases:** PostgreSQL, MongoDB  
 
 ---
 
-## 🛠️ Teknolojilerim
+## Current Projects
 
-<div align="center">
-
-| **Diller** | **Frameworks** | **Tools** |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-
-</div>
+### 🎙️ Vox Librorum
+A voice-based library application - In active development
 
 ---
 
-## 📈 Activity & Stats
+## GitHub Stats
 
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vetendas8&theme=github-dark&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vetendas8&theme=dark&background=0D1117&stroke=20B2AA&ring=20B2AA&fire=FF6B6B&currStreakNum=20B2AA&sideNums=20B2AA&currStreakLabel=20B2AA&sideLabels=8892B0&dates=8892B0)
-
-</div>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vetendas8&show_icons=true&theme=transparent&text_color=e0e6ed&icon_color=20b2aa&border_color=20b2aa&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vetendas8&layout=compact&theme=transparent&text_color=e0e6ed&border_color=20b2aa&bg_color=0D1117)
-
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vetendas8&show_icons=true&theme=transparent&text_color=e0e6ed&icon_color=20b2aa&border_color=20b2aa&bg_color=0D1117)](https://github.com/vetendas8)
 
 ---
 
+## Connect
 
-</div>
-
----
-
-## 🎯 Hedeflerim
-
-<div align="center">
-
-```
-🚀 → Backend Developer
-     ↓
-💻 → Sistem Mimarı  
-     ↓
-🌟 → Yenilikçi Projeler
-```
-
-</div>
+- GitHub: [@vetendas8](https://github.com/vetendas8)
+- Email: srvzadseymur@gmail.com
 
 ---
 
-## 💬 Benimle İletişime Geçin
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vetendas8)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srvzadseymur@gmail.com)
-
-</div>
-
----
-
-## 🎵 İlgi Alanları
-
-<div align="center">
-
-```
-🎼 Klasik Müzik
-🌙 Melankolik Müzik
-🎨 Animasyon & Tasarım
-```
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Kod Yazın | Öğrenin | Yaratın ✨
-
-*Seymur © 2026*
-
-![Profile Views](https://komarev.com/ghpvc/?username=vetendas8&color=20b2aa&style=flat-square)
-
-</div>
+*Building code, learning every day* ✨
