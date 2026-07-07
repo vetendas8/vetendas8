@@ -50,4 +50,6 @@ A voice-based library application - In active development
 
 ---
 
+![Visitors](https://komarev.com/ghpvc/?username=vetendas8&color=20b2aa&style=flat-square&label=visitors)
+
 *Building code, learning every day* ✨
