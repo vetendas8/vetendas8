@@ -51,6 +51,12 @@ Kod yazarım, sistem tasarımına ilgi duyarım ve Full Stack Developer olmayı 
 
 <div align="center">
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vetendas8&theme=github-dark&hide_border=true)
+
+</div>
+
+<div align="center">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vetendas8&theme=dark&background=0D1117&stroke=20B2AA&ring=20B2AA&fire=FF6B6B&currStreakNum=20B2AA&sideNums=20B2AA&currStreakLabel=20B2AA&sideLabels=8892B0&dates=8892B0)
 
 </div>
